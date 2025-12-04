@@ -1,8 +1,7 @@
 # warehouse_firefighting_robot
 
-![Robot Demo](demo/robot.gif)
+![Demo](demo/demo.gif)
 
-![Yolo Demo](demo/yolo.gif)
 ## 1. Run YOLO
 ```
 python3 yolo.py
