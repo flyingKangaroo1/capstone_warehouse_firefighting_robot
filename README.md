@@ -1,6 +1,6 @@
 # warehouse_firefighting_robot
-<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/3433377e-d1ca-4c60-aa7a-d8ea42beb650" />
-
+![Robot Demo](demo/robot.gif)
+![Yolo Demo](demo/yolo.gif)
 ## 1. Run YOLO
 ```
 python3 yolo.py
